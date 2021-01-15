@@ -22,6 +22,7 @@
           label="密码"
         >
           <Input
+            type="password"
             v-decorator="[
               'password',
               {
@@ -58,6 +59,7 @@
           label="密码"
         >
           <Input
+            type="password"
             v-decorator="[
               'password',
               {
@@ -72,6 +74,7 @@
           label="确认密码"
         >
           <Input
+            type="password"
             v-decorator="[
               'newpassword',
               {
